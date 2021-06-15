@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on [https://toprun123.github.io/Scrape-the-internet/](https://toprun123.github.io/Scrape-the-internet/)<br>
+🔭 I’m currently working on [https://github.com/Toprun123/Scrape-the-internet/releases/tag/v1.0](https://github.com/Toprun123/Scrape-the-internet/releases/tag/v1.0)<br>
 *A simple tool to help people scrape the internet easily!!*
 
 
