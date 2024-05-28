@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'd like some help on [https://www.codewars.com/users/Chaotic_AUR/badges/small](https://www.codewars.com/users/Chaotic_AUR/badges/small)<br>
+I'd like some help on [https://github.com/Toprun123/Aliquot-Grapher](https://github.com/Toprun123/Aliquot-Grapher)<br>
 *A basic Gtk application that show the aliquot sequence graph for a number*
 
 ![CodeWars Rep](https://www.codewars.com/users/Chaotic_AUR/badges/small "Codewars Rep")
