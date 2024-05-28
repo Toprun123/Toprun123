@@ -1,9 +1,8 @@
 ### Hi there 👋
-🔭 I’m currently working on [https://github.com/Toprun123/Scrape-the-internet/releases/tag/v1.0](https://github.com/Toprun123/Scrape-the-internet/releases/tag/v1.0)<br>
-*A simple tool to help people scrape the internet easily!!*
+I'd like some help on [https://www.codewars.com/users/Chaotic_AUR/badges/small](https://www.codewars.com/users/Chaotic_AUR/badges/small)<br>
+*A basic Gtk application that show the aliquot sequence graph for a number*
 
-Me on codewars:<br>
-![CodeWars Rep](https://www.codewars.com/users/Chaotic_AUR/badges/large "Codewars Rep")
+![CodeWars Rep](https://www.codewars.com/users/Chaotic_AUR/badges/small "Codewars Rep")
 
 <!--
 **Toprun123/Toprun123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
