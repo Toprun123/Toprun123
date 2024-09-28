@@ -4,6 +4,8 @@ I'd like some help on [https://github.com/Toprun123/Aliquot-Grapher](https://git
 
 ![CodeWars Rep](https://www.codewars.com/users/Chaotic_AUR/badges/small "Codewars Rep")
 
+[![An image of @toprun123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/toprun123)](https://holopin.io/@toprun123)
+
 <!--
 **Toprun123/Toprun123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
