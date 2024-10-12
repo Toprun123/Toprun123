@@ -30,10 +30,10 @@
 
 ### GitHub Stats
 
-<p><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toprun123&langs_count=6&layout=compact&theme=dracula" /></p>
-<p><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Toprun123&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=dracula"/></p>
+<p><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toprun123&langs_count=6&layout=compact&theme=radical" /></p>
+<p><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Toprun123&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical"/></p>
 
-### Coding platforms
+### Coding platforms Used
 
 ![CodeWars Rep](https://www.codewars.com/users/Chaotic_AUR/badges/large "Codewars Rep")
 
