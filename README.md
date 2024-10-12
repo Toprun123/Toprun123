@@ -29,10 +29,9 @@
 <a href=""><img alt="" src="https://img.shields.io/badge/Neovim-43853D?style=for-the-badge&logo=neovim&logoColor=white" /></a>
 
 ### GitHub Stats
-<p><img align="left" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Toprun123&theme=dracula" alt="Toprun123" /></p>
+
 <p><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Toprun123&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=dracula"/></p>
 <p><img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toprun123&langs_count=6&layout=compact&theme=dracula" /></p>
-<p><img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=Toprun123&column=5&theme=dracula&no-frame=true"/></p>
 
 ### Coding platforms
 
