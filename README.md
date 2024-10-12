@@ -26,7 +26,7 @@
 <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Toprun123&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical">
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![CodeWars Rep](https://www.codewars.com/users/Chaotic_AUR/badges/large)](https://www.codewars.com/users/Chaotic_AUR)
+&nbsp;&nbsp;&nbsp;[![CodeWars Rep](https://www.codewars.com/users/Chaotic_AUR/badges/large)](https://www.codewars.com/users/Chaotic_AUR)
 <br>
 
 ![---](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
