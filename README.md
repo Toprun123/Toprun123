@@ -1,10 +1,10 @@
-# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="34px" width="34px"> Hi there I'm [@Toprun123 (Syed Daanish)](https://github.com/Toprun123)
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="34px" width="34px"> Hi there, I'm [@Toprun123 (Syed Daanish)](https://github.com/Toprun123)
 
-<!--img align = "right" margin="0" src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif"-->
-<p align="left">📚 I’m currently a student and hobbyist programmer.</p>
-<p align="left">💻 I'm intrested in Linux especially declarative distros like NixOS</p>
-<p align="left">📈 I’m happy to collaborate on Open Source Projects.</p>
-<p align="left">📫 You can mail me at: <a href="syed@sixzix.com">syed@sixzix.com</a></p>
+<img align = "right" margin="0" src="./cmatrix.gif">
+- <p align="left">📚 I’m currently a student and hobbyist programmer.</p>
+- <p align="left">💻 I'm intrested in Linux especially declarative distros like NixOS</p>
+- <p align="left">📈 I’m happy to collaborate on Open Source Projects.</p>
+- <p align="left">📫 You can mail me at: <a href="syed@sixzix.com">syed@sixzix.com</a></p>
 
 ### Languages I am good at:
 <a href=""><img alt="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
