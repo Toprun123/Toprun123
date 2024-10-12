@@ -4,9 +4,10 @@
 
 - 📚 I’m currently a student and hobbyist programmer.
 - 💻 I'm intrested in Linux especially declarative distros like NixOS.
+- 📊 I also like tinkering with UI/UX, graphic design & 3D Art.
 - 📈 I’m happy to collaborate on Open Source Projects.
 - 📫 You can mail me at [syed@sixzix.com](mailto:syed@sixzix.com).
-- Citizen of 🇹🇷, born in 🇮🇳, lived in the 🇦🇪 and currently reside in 🇸🇦.
+- Citizen of 🇹🇷, born in 🇮🇳, visited the 🇬🇧, lived in the 🇦🇪 & currently reside in 🇸🇦.
 
 ### Languages I am good at:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-E10531?style=for-the-badge&logo=ruby&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-A020F0?style=for-the-badge&logo=haskell&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Nix](https://img.shields.io/badge/Nix-CF9FFF?style=for-the-badge&logo=nixos&logoColor=black)
