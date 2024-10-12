@@ -11,6 +11,9 @@
 ### Languages I am good at:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-E10531?style=for-the-badge&logo=ruby&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-A020F0?style=for-the-badge&logo=haskell&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Nix](https://img.shields.io/badge/Nix-CF9FFF?style=for-the-badge&logo=nixos&logoColor=black)
 
+### Online Courses I've done:
+[![CS50x](https://img.shields.io/badge/CS50-293352?style=for-the-badge)](https://certificates.cs50.io/2fe0d882-03e8-4ed1-a503-caea85cce845.pdf?size=letter) [![CS50 Web](https://img.shields.io/badge/CS50%20Web-A41034?style=for-the-badge)](https://certificates.cs50.io/d3b8eca3-68ef-45a2-b1e6-8f8a4b29a9ed.pdf?size=letter)
+
 ### 🧰 Frameworks I work with:
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Rails](https://img.shields.io/badge/Rails-cc0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![Django](https://img.shields.io/badge/Django-103e2e?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
