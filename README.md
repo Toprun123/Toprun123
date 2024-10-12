@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="30px" width="30px">, I'm [@Toprun123 (Syed Daanish)](https://github.com/Toprun123)
 
-<img align="right" style="margin-top: 50px;" src="./src/cmatrix.gif">
+<img align="right" src="./src/cmatrix.gif">
 
 - 📚 I’m currently a student and hobbyist programmer.
 - 💻 I'm intrested in Linux especially declarative distros like NixOS.
