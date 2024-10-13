@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="30px" width="30px">, I'm [@Toprun123 (Syed Daanish)](https://github.com/Toprun123)
+# Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="30px" width="30px">, I'm [@Toprun123 (Syed Daanish)](https://sixzix.com)
 
 <img align="right" height="510" src="./src/cmatrix.gif">
 
