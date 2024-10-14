@@ -23,7 +23,7 @@
 
 ![---](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 ### Random Stats:
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toprun123&langs_count=6&layout=compact&theme=radical">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toprun123&langs_count=8&layout=compact&theme=radical&update=1">
 <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Toprun123&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical">
 <br>
 
