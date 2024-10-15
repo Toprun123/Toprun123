@@ -3,7 +3,7 @@
 <img align="right" height="510" src="./src/cmatrix.gif">
 
 - 📚 I’m currently a student and hobbyist programmer.
-- 💻 I'm intrested in Linux especially declarative distros like NixOS.
+- 💻 I'm intrested in Linux especially declarative distros like NixOS with i3. I also used Arch Linux for about 2 years before.
 - 🎨 I also like tinkering with web UI/UX, graphic design & 3D Art.
 - 📈 I’m happy to collaborate on Open Source Projects.
 - 📫 You can contact me at [syed@sixzix.com](mailto:syed@sixzix.com).
@@ -16,7 +16,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Rails](https://img.shields.io/badge/Rails-cc0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![Django](https://img.shields.io/badge/Django-103e2e?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![BabylonJS](https://img.shields.io/badge/BabylonJS-BB464B?style=for-the-badge&logo=babylondotjs&logoColor=white) ![Processing](https://img.shields.io/badge/Processing-006699?style=for-the-badge&logo=processingfoundation&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-222222?style=for-the-badge&logo=threedotjs&logoColor=white)
 
 ### Tools I am comfortable with:
-![NixOS](https://img.shields.io/badge/NixOS-CF9FFF?style=for-the-badge&logo=nixos&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-43853D?style=for-the-badge&logo=neovim&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-222222?style=for-the-badge&logo=inkscape) ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![NixOS](https://img.shields.io/badge/NixOS-CF9FFF?style=for-the-badge&logo=nixos&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-43853D?style=for-the-badge&logo=neovim&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-222222?style=for-the-badge&logo=inkscape) ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white) ![Linux](https://img.shields.io/badge/linux-F7DF1E?style=for-the-badge&logo=linux&logoColor=black)
 
 ![---](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 ### Random Stats:
