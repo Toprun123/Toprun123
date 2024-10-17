@@ -46,8 +46,8 @@
 <br>
 <br>
 
-<a href="https://www.codewars.com/users/Chaotic_AUR">
-&nbsp;<img width="47%" src="https://www.codewars.com/users/Chaotic_AUR/badges/large" alt="CodeWars Rep" />
+&nbsp;<a href="https://www.codewars.com/users/Chaotic_AUR">
+<img width="47%" src="https://www.codewars.com/users/Chaotic_AUR/badges/large" alt="CodeWars Rep" />
 </a>
 
 <br>
