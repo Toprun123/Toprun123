@@ -17,8 +17,21 @@
 ![](https://img.shields.io/badge/NixOS-CF9FFF?style=for-the-badge&logo=nixos&logoColor=black) ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![](https://img.shields.io/badge/Neovim-43853D?style=for-the-badge&logo=neovim&logoColor=white)
 
 ### Random Stats:
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toprun123&langs_count=6&layout=compact&theme=radical">
-<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Toprun123&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toprun123&langs_count=8&layout=compact&theme=radical&show_icons=true&hide_title=true&size_weight=0.4&count_weight=0.6&bg_color=00000000">
+<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Toprun123&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical&bg_color=00000000&hide=stars">
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Toprun123&langs_count=8&layout=compact&theme=radical&show_icons=true&hide_title=true&size_weight=0.4&count_weight=0.6&bg_color=00000000"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Toprun123&langs_count=8&layout=compact&show_icons=true&hide_title=true&size_weight=0.4&count_weight=0.6"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toprun123&langs_count=8&layout=compact&show_icons=true&hide_title=true&size_weight=0.4&count_weight=0.6" />
+</picture>
+
 <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![CodeWars Rep](https://www.codewars.com/users/Chaotic_AUR/badges/small)](https://www.codewars.com/users/Chaotic_AUR)
