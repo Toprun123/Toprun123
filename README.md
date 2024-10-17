@@ -46,7 +46,10 @@
 <br>
 <br>
 
-[![CodeWars Rep](https://www.codewars.com/users/Chaotic_AUR/badges/large)](https://www.codewars.com/users/Chaotic_AUR)
+<a href="https://www.codewars.com/users/Chaotic_AUR">
+<img width="47%" src="https://www.codewars.com/users/Chaotic_AUR/badges/large" alt="CodeWars Rep" />
+</a>
+
 <br>
 
 ![---](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
