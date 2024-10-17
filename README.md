@@ -19,12 +19,37 @@
 ![NixOS](https://img.shields.io/badge/NixOS-CF9FFF?style=for-the-badge&logo=nixos&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-43853D?style=for-the-badge&logo=neovim&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-222222?style=for-the-badge&logo=inkscape) ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white) ![Linux](https://img.shields.io/badge/linux-F7DF1E?style=for-the-badge&logo=linux&logoColor=black)
 
 ![---](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+
 ### Random Stats:
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toprun123&langs_count=8&layout=compact&theme=radical&update=1">
-<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Toprun123&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Toprun123&langs_count=8&layout=compact&theme=radical&show_icons=true&hide_title=true&size_weight=0.4&count_weight=0.6&bg_color=00000000"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Toprun123&langs_count=8&layout=compact&show_icons=true&hide_title=true&size_weight=0.4&count_weight=0.6"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toprun123&langs_count=8&layout=compact&show_icons=true&hide_title=true&size_weight=0.4&count_weight=0.6" />
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Toprun123&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical&bg_color=00000000&hide=stars"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Toprun123&include_all_commits=true&count_private=true&show_icons=true&line_height=20&hide=stars"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Toprun123&include_all_commits=true&count_private=true&show_icons=true&line_height=20&hide=stars" />
+</picture>
+<br>
 <br>
 
-[![CodeWars Rep](https://www.codewars.com/users/Chaotic_AUR/badges/large)](https://www.codewars.com/users/Chaotic_AUR)
+<a href="https://www.codewars.com/users/Chaotic_AUR">
+&nbsp;<img width="47%" src="https://www.codewars.com/users/Chaotic_AUR/badges/large" alt="CodeWars Rep" />
+</a>
+
 <br>
 
 ![---](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
