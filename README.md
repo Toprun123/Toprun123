@@ -34,14 +34,14 @@
 </picture>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Toprun123&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical&bg_color=00000000&hide=stars&show=,prs_merged,prs_merged_percentage"
+    srcset="https://github-readme-stats.vercel.app/api?username=Toprun123&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical&bg_color=00000000&hide=stars&show=prs_merged,prs_merged_percentage"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Toprun123&include_all_commits=true&count_private=true&show_icons=true&line_height=20&hide=stars&show=,prs_merged,prs_merged_percentage"
+    srcset="https://github-readme-stats.vercel.app/api?username=Toprun123&include_all_commits=true&count_private=true&show_icons=true&line_height=20&hide=stars&show=prs_merged,prs_merged_percentage"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Toprun123&include_all_commits=true&count_private=true&show_icons=true&line_height=20&hide=stars&show=,prs_merged,prs_merged_percentage" />
+  <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Toprun123&include_all_commits=true&count_private=true&show_icons=true&line_height=20&hide=stars&show=prs_merged,prs_merged_percentage" />
 </picture>
 <br>
 <br>
