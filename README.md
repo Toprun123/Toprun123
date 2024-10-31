@@ -23,14 +23,14 @@
 ### Random Stats:
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Toprun123&langs_count=10&layout=compact&theme=radical&show_icons=true&hide_title=true&size_weight=0.4&count_weight=0.6&bg_color=00000000"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Toprun123&langs_count=14&layout=compact&theme=radical&show_icons=true&hide_title=true&size_weight=0.4&count_weight=0.6&bg_color=00000000"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Toprun123&langs_count=10&layout=compact&show_icons=true&hide_title=true&size_weight=0.4&count_weight=0.6"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Toprun123&langs_count=14&layout=compact&show_icons=true&hide_title=true&size_weight=0.4&count_weight=0.6"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toprun123&langs_count=10&layout=compact&show_icons=true&hide_title=true&size_weight=0.4&count_weight=0.6" />
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toprun123&langs_count=14&layout=compact&show_icons=true&hide_title=true&size_weight=0.4&count_weight=0.6" />
 </picture>
 <picture>
   <source
