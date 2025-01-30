@@ -3,7 +3,7 @@
 <img align="right" height="510" src="./src/cmatrix.gif">
 
 - 📚 I’m currently a student and hobbyist programmer.
-- 💻 I'm intrested in Linux especially declarative distros like NixOS with i3. I also used Arch Linux for about 2 years before.
+- 💻 I'm intrested in Linux. I use Arch BTW - with i3wm.
 - 🎨 I also like tinkering with web UI/UX, graphic design & 3D Art.
 - 📈 I’m happy to collaborate on Open Source Projects.
 - 📫 You can contact me at [syed@sixzix.com](mailto:syed@sixzix.com).
