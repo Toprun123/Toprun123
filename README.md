@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="30px" width="30px">, I'm [@Toprun123 (Syed Daanish)](https://sixzix.com)
+# Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="30px" width="30px">, I'm [@Toprun123 (Syed Daanish)](https://syedm.dev)
 
 <img align="right" height="510" src="./src/cmatrix.gif">
 
@@ -6,7 +6,7 @@
 - 💻 I'm intrested in Linux. I use Arch BTW - with i3wm.
 - 🎨 I also like tinkering with web UI/UX, graphic design & 3D Art.
 - 📈 I’m happy to collaborate on Open Source Projects.
-- 📫 You can contact me at [syed@sixzix.com](mailto:syed@sixzix.com).
+- 📫 You can contact me at [me@syedm.dev](mailto:me@syedm.dev).
 - I'm a citizen of 🇹🇷, born in 🇮🇳, visited the 🇬🇧, lived in the 🇦🇪 & currently reside in 🇸🇦.
 
 ### Languages I am good at:
