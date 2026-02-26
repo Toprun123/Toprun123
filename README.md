@@ -3,7 +3,7 @@
 <img align="right" height="510" src="./src/cmatrix.gif">
 
 - 📚 I’m currently a student and hobbyist programmer.
-- 💻 I'm intrested in Linux. I use Arch BTW - with i3wm.
+- 💻 I'm intrested in Linux. I use Arch BTW - with kutu.rb a tiling WM written in ruby.
 - 🎨 I also like tinkering with web UI/UX, graphic design & 3D Art.
 - 📈 I’m happy to collaborate on Open Source Projects.
 - 📫 You can contact me at [me@syedm.dev](mailto:me@syedm.dev).
@@ -20,32 +20,6 @@
 
 ![---](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
-### Random Stats:
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Toprun123&langs_count=14&layout=compact&theme=radical&show_icons=true&hide_title=true&size_weight=0.4&count_weight=0.6&bg_color=00000000"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Toprun123&langs_count=14&layout=compact&show_icons=true&hide_title=true&size_weight=0.4&count_weight=0.6"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toprun123&langs_count=14&layout=compact&show_icons=true&hide_title=true&size_weight=0.4&count_weight=0.6" />
-</picture>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Toprun123&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical&bg_color=00000000&hide=stars&show=prs_merged,prs_merged_percentage"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Toprun123&include_all_commits=true&count_private=true&show_icons=true&line_height=20&hide=stars&show=prs_merged,prs_merged_percentage"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Toprun123&include_all_commits=true&count_private=true&show_icons=true&line_height=20&hide=stars&show=prs_merged,prs_merged_percentage" />
-</picture>
-<br>
-<br>
-<br>
 <br>
 
 <a href="https://www.codewars.com/users/Chaotic_AUR">
